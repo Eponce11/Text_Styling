@@ -1,0 +1,26 @@
+
+h1{
+    background-color: black;
+    color: rgb(47, 136, 219);
+    font-family: sans-serif;
+    
+}
+
+h1 span{
+    color: white;
+}
+
+h2{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+h3{
+    background-color: royalblue;
+    color: yellowgreen;
+    text-align: right;
+    text-decoration: underline;
+}
